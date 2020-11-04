@@ -23,8 +23,7 @@ def equaliza(xn_N,N,M):
         # transiente de preenchimento dos taps (instantes) do filtro
         if n < M -1:
             Xn[0:n+1,n] = xn_N[0:n+1,:][::-1].reshape(n+1)
-            
-            #Xn[1:n,n] = xn_N[n:-1:1,1]; # passado para baixo [x(n);x(n-1);...;x(n-(M-1))]        
+                  
         # regime de funcionamento dos taps do filtro
         if n >= M - 1:
             Xn[:,n] = xn_N[n-2:n+1,:][::-1].reshape(3)
