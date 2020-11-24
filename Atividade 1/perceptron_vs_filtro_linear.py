@@ -14,7 +14,6 @@ import math
 import numpy as np
 from IPython.display import Image
 import matplotlib.pyplot as plt
-%matplotlib inline
 
 font = {'family': 'times new roman',
         'color':  'black',
