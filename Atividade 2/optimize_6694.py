@@ -5,6 +5,14 @@ Created on Tue Oct  6 22:40:23 2020
 Modulo de otimizacao da disciplina 6694 - Sistemas
  inteligentes.
 Classe optimize_6694 com os metodos:
+    fx_P3(x): calcula valor da funcao quadratica
+    fx_P4(x): calcula valor da funcao nao-quadratica
+    fx_P3_contour(x1,x2): broadcast de fx_P3 para meshgrid
+    fx_P4_contour(x1,x2): broadcast de fx_P4 para meshgrid
+    calc_d_P3(x,flagmetodo=0): calcula direcao d e o 
+        gradiente da funcao fx_P3
+    calc_d_P4(x,flagmetodo=0): calcula direcao d e o 
+        gradiente da funcao fx_P4
     calc_alpha_max(xk,dk,xmin,xmax): calcula passo maximo
         dado os limites xmin e xmax das variaveis
     razao_aurea(f,xk,dk,intervalo,Tol): metodo de busca

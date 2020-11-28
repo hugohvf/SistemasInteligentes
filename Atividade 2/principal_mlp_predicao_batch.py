@@ -138,6 +138,7 @@ plt.legend()
 plt.title("Evolução do EQM")
 plt.xlabel("Época (iteração)")
 plt.ylabel("EQM")
+plt.show()
 
 N = Ntrain+Nval+Ntest
 npred = np.arange(N-Npred+nstep,N+nstep)
@@ -148,6 +149,7 @@ plt.legend()
 plt.title('Predição')
 plt.xlabel('amostra')
 plt.ylabel('Ax normalizado')
+plt.show()
 '''
 y = []
 eixo_x = []
