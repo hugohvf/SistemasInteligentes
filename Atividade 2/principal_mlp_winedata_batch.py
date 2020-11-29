@@ -64,7 +64,7 @@ while np.linalg.norm(dEw) >= Tolgrad and k <= Nepocas:
     if flagembaralha == 1:
       (X,S) = mymlp.embaralha(X,S)
       (Xval,Sval) = mymlp.embaralha(Xval,Sval)
-    
+
     # forward and backpropagation (erro quad. e derivada primeira)
     (Ew,dEw) = mymlp.forwardprop_and_backprop_batch(X,S,w1,w2,Nl,m,N)
     EQM_T_Grad[k] = Ew.copy()
