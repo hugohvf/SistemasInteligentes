@@ -1,0 +1,674 @@
+Insira o tamanho do batch para o treinamento por minibatch:
+100
+Predição do minibatch com tamanho de 100:
+Numero de padroes para treinamento = 1746
+Numero de padroes para validacao = 547
+Numero de padroes para teste = 547
+Gerando pesos iniciais da rede!
+Numero de pesos na rede neural = 271
+You will use 17 batches with 100 samples
+Epoca 0, EQM_T = 0.01045, EQM_V = 0.00936
+Epoca 10, EQM_T = 0.00322, EQM_V = 0.00284
+Epoca 20, EQM_T = 0.00275, EQM_V = 0.00230
+Epoca 30, EQM_T = 0.00277, EQM_V = 0.00226
+Epoca 40, EQM_T = 0.00229, EQM_V = 0.00195
+Epoca 50, EQM_T = 0.00230, EQM_V = 0.00186
+Epoca 60, EQM_T = 0.00221, EQM_V = 0.00179
+Epoca 70, EQM_T = 0.00201, EQM_V = 0.00168
+Epoca 80, EQM_T = 0.00196, EQM_V = 0.00158
+Epoca 90, EQM_T = 0.00199, EQM_V = 0.00155
+Epoca 100, EQM_T = 0.00189, EQM_V = 0.00156
+Epoca 110, EQM_T = 0.00171, EQM_V = 0.00142
+Epoca 120, EQM_T = 0.00185, EQM_V = 0.00151
+Epoca 130, EQM_T = 0.00164, EQM_V = 0.00133
+Epoca 140, EQM_T = 0.00147, EQM_V = 0.00122
+Epoca 150, EQM_T = 0.00148, EQM_V = 0.00123
+Epoca 160, EQM_T = 0.00153, EQM_V = 0.00120
+Epoca 170, EQM_T = 0.00145, EQM_V = 0.00120
+Epoca 180, EQM_T = 0.00134, EQM_V = 0.00116
+Epoca 190, EQM_T = 0.00134, EQM_V = 0.00113
+Epoca 200, EQM_T = 0.00132, EQM_V = 0.00109
+Epoca 210, EQM_T = 0.00135, EQM_V = 0.00110
+Epoca 220, EQM_T = 0.00130, EQM_V = 0.00105
+Epoca 230, EQM_T = 0.00136, EQM_V = 0.00108
+Epoca 240, EQM_T = 0.00122, EQM_V = 0.00102
+Epoca 250, EQM_T = 0.00115, EQM_V = 0.00097
+Epoca 260, EQM_T = 0.00133, EQM_V = 0.00106
+Epoca 270, EQM_T = 0.00115, EQM_V = 0.00096
+Epoca 280, EQM_T = 0.00125, EQM_V = 0.00099
+Epoca 290, EQM_T = 0.00118, EQM_V = 0.00094
+Epoca 300, EQM_T = 0.00126, EQM_V = 0.00095
+Epoca 310, EQM_T = 0.00123, EQM_V = 0.00093
+Epoca 320, EQM_T = 0.00117, EQM_V = 0.00092
+Epoca 330, EQM_T = 0.00121, EQM_V = 0.00096
+Epoca 340, EQM_T = 0.00127, EQM_V = 0.00089
+Epoca 350, EQM_T = 0.00122, EQM_V = 0.00093
+Epoca 360, EQM_T = 0.00115, EQM_V = 0.00088
+Epoca 370, EQM_T = 0.00118, EQM_V = 0.00094
+Epoca 380, EQM_T = 0.00111, EQM_V = 0.00091
+Epoca 390, EQM_T = 0.00114, EQM_V = 0.00086
+Epoca 400, EQM_T = 0.00111, EQM_V = 0.00088
+Epoca 410, EQM_T = 0.00108, EQM_V = 0.00086
+Epoca 420, EQM_T = 0.00111, EQM_V = 0.00085
+Epoca 430, EQM_T = 0.00107, EQM_V = 0.00082
+Epoca 440, EQM_T = 0.00110, EQM_V = 0.00088
+Epoca 450, EQM_T = 0.00110, EQM_V = 0.00085
+Epoca 460, EQM_T = 0.00108, EQM_V = 0.00082
+Epoca 470, EQM_T = 0.00113, EQM_V = 0.00083
+Epoca 480, EQM_T = 0.00119, EQM_V = 0.00088
+Epoca 490, EQM_T = 0.00110, EQM_V = 0.00083
+Epoca 500, EQM_T = 0.00117, EQM_V = 0.00085
+Predição do batch com passo de 5:
+Numero de padroes para treinamento = 1746
+Numero de padroes para validacao = 547
+Numero de padroes para teste = 547
+Gerando pesos iniciais da rede!
+Numero de pesos na rede neural = 271
+Epoca 0, EQM_T = 0.08940, EQM_V = 0.08297
+Epoca 10, EQM_T = 0.04062, EQM_V = 0.04221
+Epoca 20, EQM_T = 0.03437, EQM_V = 0.03419
+Epoca 30, EQM_T = 0.03156, EQM_V = 0.03021
+Epoca 40, EQM_T = 0.02958, EQM_V = 0.02767
+Epoca 50, EQM_T = 0.02794, EQM_V = 0.02568
+Epoca 60, EQM_T = 0.02651, EQM_V = 0.02403
+Epoca 70, EQM_T = 0.02527, EQM_V = 0.02263
+Epoca 80, EQM_T = 0.02419, EQM_V = 0.02145
+Epoca 90, EQM_T = 0.02328, EQM_V = 0.02046
+Epoca 100, EQM_T = 0.02252, EQM_V = 0.01965
+Epoca 110, EQM_T = 0.02189, EQM_V = 0.01898
+Epoca 120, EQM_T = 0.02135, EQM_V = 0.01843
+Epoca 130, EQM_T = 0.02088, EQM_V = 0.01797
+Epoca 140, EQM_T = 0.02048, EQM_V = 0.01757
+Epoca 150, EQM_T = 0.02013, EQM_V = 0.01723
+Epoca 160, EQM_T = 0.01981, EQM_V = 0.01693
+Epoca 170, EQM_T = 0.01953, EQM_V = 0.01666
+Epoca 180, EQM_T = 0.01928, EQM_V = 0.01642
+Epoca 190, EQM_T = 0.01905, EQM_V = 0.01621
+Epoca 200, EQM_T = 0.01884, EQM_V = 0.01601
+Epoca 210, EQM_T = 0.01864, EQM_V = 0.01583
+Epoca 220, EQM_T = 0.01846, EQM_V = 0.01567
+Epoca 230, EQM_T = 0.01830, EQM_V = 0.01552
+Epoca 240, EQM_T = 0.01814, EQM_V = 0.01538
+Epoca 250, EQM_T = 0.01800, EQM_V = 0.01525
+Epoca 260, EQM_T = 0.01786, EQM_V = 0.01512
+Epoca 270, EQM_T = 0.01773, EQM_V = 0.01501
+Epoca 280, EQM_T = 0.01761, EQM_V = 0.01490
+Epoca 290, EQM_T = 0.01750, EQM_V = 0.01480
+Epoca 300, EQM_T = 0.01739, EQM_V = 0.01471
+Epoca 310, EQM_T = 0.01729, EQM_V = 0.01462
+Epoca 320, EQM_T = 0.01719, EQM_V = 0.01454
+Epoca 330, EQM_T = 0.01710, EQM_V = 0.01446
+Epoca 340, EQM_T = 0.01701, EQM_V = 0.01439
+Epoca 350, EQM_T = 0.01693, EQM_V = 0.01431
+Epoca 360, EQM_T = 0.01685, EQM_V = 0.01425
+Epoca 370, EQM_T = 0.01677, EQM_V = 0.01418
+Epoca 380, EQM_T = 0.01670, EQM_V = 0.01412
+Epoca 390, EQM_T = 0.01662, EQM_V = 0.01406
+Epoca 400, EQM_T = 0.01655, EQM_V = 0.01400
+Epoca 410, EQM_T = 0.01649, EQM_V = 0.01395
+Epoca 420, EQM_T = 0.01642, EQM_V = 0.01389
+Epoca 430, EQM_T = 0.01636, EQM_V = 0.01384
+Epoca 440, EQM_T = 0.01630, EQM_V = 0.01379
+Epoca 450, EQM_T = 0.01624, EQM_V = 0.01375
+Epoca 460, EQM_T = 0.01618, EQM_V = 0.01370
+Epoca 470, EQM_T = 0.01613, EQM_V = 0.01366
+Epoca 480, EQM_T = 0.01607, EQM_V = 0.01361
+Epoca 490, EQM_T = 0.01602, EQM_V = 0.01357
+Epoca 500, EQM_T = 0.01597, EQM_V = 0.01353
+Predição do minibatch com passo de 5:
+Numero de padroes para treinamento = 1746
+Numero de padroes para validacao = 547
+Numero de padroes para teste = 547
+Gerando pesos iniciais da rede!
+Numero de pesos na rede neural = 271
+You will use 87 batches with 20 samples
+Epoca 0, EQM_T = 0.00823, EQM_V = 0.09103
+Epoca 10, EQM_T = 0.00406, EQM_V = 0.06421
+Epoca 20, EQM_T = 0.12852, EQM_V = 0.07271
+Epoca 30, EQM_T = 0.04523, EQM_V = 0.08828
+Epoca 40, EQM_T = 0.02815, EQM_V = 0.07954
+Epoca 50, EQM_T = 0.00935, EQM_V = 0.28086
+Epoca 60, EQM_T = 0.01109, EQM_V = 0.09147
+Epoca 70, EQM_T = 0.05833, EQM_V = 0.08502
+Epoca 80, EQM_T = 0.13788, EQM_V = 0.06993
+Epoca 90, EQM_T = 0.02350, EQM_V = 0.05648
+Epoca 100, EQM_T = 0.01121, EQM_V = 0.06356
+Epoca 110, EQM_T = 0.00617, EQM_V = 0.05434
+Epoca 120, EQM_T = 0.00526, EQM_V = 0.04522
+Epoca 130, EQM_T = 0.05611, EQM_V = 0.06084
+Epoca 140, EQM_T = 0.04059, EQM_V = 0.04183
+Epoca 150, EQM_T = 0.01367, EQM_V = 0.06929
+Epoca 160, EQM_T = 0.00289, EQM_V = 0.06697
+Epoca 170, EQM_T = 0.00714, EQM_V = 0.05025
+Epoca 180, EQM_T = 0.02190, EQM_V = 0.05999
+Epoca 190, EQM_T = 0.00641, EQM_V = 0.04973
+Epoca 200, EQM_T = 0.04134, EQM_V = 0.03979
+Epoca 210, EQM_T = 0.00665, EQM_V = 0.03574
+Epoca 220, EQM_T = 0.05891, EQM_V = 0.07515
+Epoca 230, EQM_T = 0.01070, EQM_V = 0.05371
+Epoca 240, EQM_T = 0.00718, EQM_V = 0.05916
+Epoca 250, EQM_T = 0.01416, EQM_V = 0.07072
+Epoca 260, EQM_T = 0.05545, EQM_V = 0.05287
+Epoca 270, EQM_T = 0.00558, EQM_V = 0.06435
+Epoca 280, EQM_T = 0.01208, EQM_V = 0.06254
+Epoca 290, EQM_T = 0.04666, EQM_V = 0.08204
+Epoca 300, EQM_T = 0.06342, EQM_V = 0.07785
+Epoca 310, EQM_T = 0.00911, EQM_V = 0.04402
+Epoca 320, EQM_T = 0.01487, EQM_V = 0.07175
+Epoca 330, EQM_T = 0.04259, EQM_V = 0.04465
+Epoca 340, EQM_T = 0.03325, EQM_V = 0.04623
+Epoca 350, EQM_T = 0.01703, EQM_V = 0.05358
+Epoca 360, EQM_T = 0.00133, EQM_V = 0.06076
+Epoca 370, EQM_T = 0.05517, EQM_V = 0.05565
+Epoca 380, EQM_T = 0.02203, EQM_V = 0.17197
+Epoca 390, EQM_T = 0.02109, EQM_V = 0.07248
+Epoca 400, EQM_T = 0.04824, EQM_V = 0.03597
+Epoca 410, EQM_T = 0.09963, EQM_V = 0.04580
+Epoca 420, EQM_T = 0.00194, EQM_V = 0.05217
+Epoca 430, EQM_T = 0.04697, EQM_V = 0.06383
+Epoca 440, EQM_T = 0.00661, EQM_V = 0.06584
+Epoca 450, EQM_T = 0.06975, EQM_V = 0.04516
+Epoca 460, EQM_T = 0.05071, EQM_V = 0.05256
+Epoca 470, EQM_T = 0.03010, EQM_V = 0.02950
+Epoca 480, EQM_T = 0.00204, EQM_V = 0.04243
+Epoca 490, EQM_T = 0.00463, EQM_V = 0.04471
+Epoca 500, EQM_T = 0.01310, EQM_V = 0.02224
+Predição do batch com passo de 10:
+Numero de padroes para treinamento = 1746
+Numero de padroes para validacao = 547
+Numero de padroes para teste = 547
+Gerando pesos iniciais da rede!
+Numero de pesos na rede neural = 271
+Epoca 0, EQM_T = 0.12497, EQM_V = 0.08143
+Epoca 10, EQM_T = 0.04561, EQM_V = 0.04852
+Epoca 20, EQM_T = 0.04428, EQM_V = 0.04577
+Epoca 30, EQM_T = 0.04336, EQM_V = 0.04415
+Epoca 40, EQM_T = 0.04238, EQM_V = 0.04283
+Epoca 50, EQM_T = 0.04139, EQM_V = 0.04166
+Epoca 60, EQM_T = 0.04044, EQM_V = 0.04061
+Epoca 70, EQM_T = 0.03957, EQM_V = 0.03968
+Epoca 80, EQM_T = 0.03878, EQM_V = 0.03887
+Epoca 90, EQM_T = 0.03804, EQM_V = 0.03816
+Epoca 100, EQM_T = 0.03736, EQM_V = 0.03755
+Epoca 110, EQM_T = 0.03673, EQM_V = 0.03700
+Epoca 120, EQM_T = 0.03614, EQM_V = 0.03652
+Epoca 130, EQM_T = 0.03561, EQM_V = 0.03609
+Epoca 140, EQM_T = 0.03514, EQM_V = 0.03570
+Epoca 150, EQM_T = 0.03472, EQM_V = 0.03536
+Epoca 160, EQM_T = 0.03434, EQM_V = 0.03506
+Epoca 170, EQM_T = 0.03401, EQM_V = 0.03480
+Epoca 180, EQM_T = 0.03372, EQM_V = 0.03457
+Epoca 190, EQM_T = 0.03346, EQM_V = 0.03436
+Epoca 200, EQM_T = 0.03323, EQM_V = 0.03418
+Epoca 210, EQM_T = 0.03301, EQM_V = 0.03401
+Epoca 220, EQM_T = 0.03282, EQM_V = 0.03386
+Epoca 230, EQM_T = 0.03264, EQM_V = 0.03373
+Epoca 240, EQM_T = 0.03247, EQM_V = 0.03360
+Epoca 250, EQM_T = 0.03231, EQM_V = 0.03348
+Epoca 260, EQM_T = 0.03215, EQM_V = 0.03337
+Epoca 270, EQM_T = 0.03201, EQM_V = 0.03327
+Epoca 280, EQM_T = 0.03187, EQM_V = 0.03317
+Epoca 290, EQM_T = 0.03174, EQM_V = 0.03308
+Epoca 300, EQM_T = 0.03161, EQM_V = 0.03298
+Epoca 310, EQM_T = 0.03149, EQM_V = 0.03290
+Epoca 320, EQM_T = 0.03137, EQM_V = 0.03281
+Epoca 330, EQM_T = 0.03125, EQM_V = 0.03272
+Epoca 340, EQM_T = 0.03114, EQM_V = 0.03264
+Epoca 350, EQM_T = 0.03103, EQM_V = 0.03256
+Epoca 360, EQM_T = 0.03092, EQM_V = 0.03247
+Epoca 370, EQM_T = 0.03082, EQM_V = 0.03239
+Epoca 380, EQM_T = 0.03071, EQM_V = 0.03231
+Epoca 390, EQM_T = 0.03061, EQM_V = 0.03222
+Epoca 400, EQM_T = 0.03052, EQM_V = 0.03214
+Epoca 410, EQM_T = 0.03042, EQM_V = 0.03205
+Epoca 420, EQM_T = 0.03033, EQM_V = 0.03197
+Epoca 430, EQM_T = 0.03023, EQM_V = 0.03189
+Epoca 440, EQM_T = 0.03014, EQM_V = 0.03180
+Epoca 450, EQM_T = 0.03005, EQM_V = 0.03172
+Epoca 460, EQM_T = 0.02996, EQM_V = 0.03163
+Epoca 470, EQM_T = 0.02987, EQM_V = 0.03154
+Epoca 480, EQM_T = 0.02978, EQM_V = 0.03146
+Epoca 490, EQM_T = 0.02970, EQM_V = 0.03137
+Epoca 500, EQM_T = 0.02961, EQM_V = 0.03129
+Predição do minibatch com passo de 10:
+Numero de padroes para treinamento = 1746
+Numero de padroes para validacao = 547
+Numero de padroes para teste = 547
+Gerando pesos iniciais da rede!
+Numero de pesos na rede neural = 271
+You will use 87 batches with 20 samples
+Epoca 0, EQM_T = 0.02208, EQM_V = 0.18522
+Epoca 10, EQM_T = 0.01255, EQM_V = 0.15957
+Epoca 20, EQM_T = 0.02699, EQM_V = 0.12161
+Epoca 30, EQM_T = 0.01772, EQM_V = 0.06935
+Epoca 40, EQM_T = 0.01793, EQM_V = 0.08477
+Epoca 50, EQM_T = 0.04161, EQM_V = 0.07987
+Epoca 60, EQM_T = 0.00418, EQM_V = 0.06837
+Epoca 70, EQM_T = 0.00671, EQM_V = 0.08797
+Epoca 80, EQM_T = 0.01359, EQM_V = 0.22745
+Epoca 90, EQM_T = 0.01504, EQM_V = 0.06562
+Epoca 100, EQM_T = 0.00752, EQM_V = 0.13196
+Epoca 110, EQM_T = 0.02130, EQM_V = 0.12105
+Epoca 120, EQM_T = 0.00990, EQM_V = 0.18164
+Epoca 130, EQM_T = 0.04619, EQM_V = 0.10600
+Epoca 140, EQM_T = 0.04314, EQM_V = 0.09103
+Epoca 150, EQM_T = 0.02051, EQM_V = 0.14797
+Epoca 160, EQM_T = 0.01271, EQM_V = 0.18989
+Epoca 170, EQM_T = 0.01953, EQM_V = 0.10541
+Epoca 180, EQM_T = 0.03184, EQM_V = 0.19776
+Epoca 190, EQM_T = 0.00706, EQM_V = 0.30454
+Epoca 200, EQM_T = 0.00861, EQM_V = 0.14687
+Epoca 210, EQM_T = 0.01204, EQM_V = 0.23122
+Epoca 220, EQM_T = 0.05172, EQM_V = 0.08729
+Epoca 230, EQM_T = 0.19832, EQM_V = 0.14805
+Epoca 240, EQM_T = 0.02654, EQM_V = 0.20626
+Epoca 250, EQM_T = 0.04143, EQM_V = 0.22458
+Epoca 260, EQM_T = 0.00558, EQM_V = 0.28598
+Epoca 270, EQM_T = 0.05228, EQM_V = 0.08633
+Epoca 280, EQM_T = 0.03450, EQM_V = 0.08564
+Epoca 290, EQM_T = 0.08213, EQM_V = 0.06660
+Epoca 300, EQM_T = 0.02408, EQM_V = 0.05372
+Epoca 310, EQM_T = 0.01047, EQM_V = 0.12222
+Epoca 320, EQM_T = 0.00676, EQM_V = 0.16606
+Epoca 330, EQM_T = 0.00768, EQM_V = 0.27737
+Epoca 340, EQM_T = 0.02367, EQM_V = 0.29331
+Epoca 350, EQM_T = 0.01090, EQM_V = 0.29952
+Epoca 360, EQM_T = 0.03571, EQM_V = 0.08546
+Epoca 370, EQM_T = 0.02732, EQM_V = 0.09055
+Epoca 380, EQM_T = 0.07164, EQM_V = 0.06204
+Epoca 390, EQM_T = 0.00660, EQM_V = 0.07626
+Epoca 400, EQM_T = 0.03943, EQM_V = 0.06939
+Epoca 410, EQM_T = 0.04273, EQM_V = 0.07358
+Epoca 420, EQM_T = 0.08505, EQM_V = 0.07520
+Epoca 430, EQM_T = 0.00922, EQM_V = 0.09419
+Epoca 440, EQM_T = 0.12402, EQM_V = 0.08946
+Epoca 450, EQM_T = 0.11529, EQM_V = 0.04938
+Epoca 460, EQM_T = 0.23276, EQM_V = 0.07812
+Epoca 470, EQM_T = 0.02708, EQM_V = 0.07775
+Epoca 480, EQM_T = 0.03662, EQM_V = 0.06147
+Epoca 490, EQM_T = 0.13658, EQM_V = 0.11314
+Epoca 500, EQM_T = 0.03997, EQM_V = 0.04228
+Predição do batch com passo de 52:
+Numero de padroes para treinamento = 1746
+Numero de padroes para validacao = 547
+Numero de padroes para teste = 547
+Gerando pesos iniciais da rede!
+Numero de pesos na rede neural = 271
+Epoca 0, EQM_T = 0.08169, EQM_V = 0.05803
+Epoca 10, EQM_T = 0.04617, EQM_V = 0.04053
+Epoca 20, EQM_T = 0.04566, EQM_V = 0.04005
+Epoca 30, EQM_T = 0.04558, EQM_V = 0.03990
+Epoca 40, EQM_T = 0.04553, EQM_V = 0.03983
+Epoca 50, EQM_T = 0.04549, EQM_V = 0.03981
+Epoca 60, EQM_T = 0.04544, EQM_V = 0.03982
+Epoca 70, EQM_T = 0.04539, EQM_V = 0.03984
+Epoca 80, EQM_T = 0.04534, EQM_V = 0.03988
+Epoca 90, EQM_T = 0.04527, EQM_V = 0.03994
+Epoca 100, EQM_T = 0.04518, EQM_V = 0.04004
+Epoca 110, EQM_T = 0.04508, EQM_V = 0.04016
+Epoca 120, EQM_T = 0.04495, EQM_V = 0.04033
+Epoca 130, EQM_T = 0.04479, EQM_V = 0.04055
+Epoca 140, EQM_T = 0.04461, EQM_V = 0.04082
+Epoca 150, EQM_T = 0.04440, EQM_V = 0.04114
+Epoca 160, EQM_T = 0.04418, EQM_V = 0.04150
+Epoca 170, EQM_T = 0.04396, EQM_V = 0.04188
+Epoca 180, EQM_T = 0.04374, EQM_V = 0.04228
+Epoca 190, EQM_T = 0.04354, EQM_V = 0.04268
+Epoca 200, EQM_T = 0.04335, EQM_V = 0.04306
+Epoca 210, EQM_T = 0.04317, EQM_V = 0.04343
+Epoca 220, EQM_T = 0.04300, EQM_V = 0.04379
+Epoca 230, EQM_T = 0.04284, EQM_V = 0.04412
+Epoca 240, EQM_T = 0.04268, EQM_V = 0.04445
+Epoca 250, EQM_T = 0.04252, EQM_V = 0.04478
+Epoca 260, EQM_T = 0.04236, EQM_V = 0.04511
+Epoca 270, EQM_T = 0.04220, EQM_V = 0.04545
+Epoca 280, EQM_T = 0.04205, EQM_V = 0.04580
+Epoca 290, EQM_T = 0.04191, EQM_V = 0.04615
+Epoca 300, EQM_T = 0.04177, EQM_V = 0.04651
+Epoca 310, EQM_T = 0.04163, EQM_V = 0.04687
+Epoca 320, EQM_T = 0.04150, EQM_V = 0.04724
+Epoca 330, EQM_T = 0.04138, EQM_V = 0.04760
+Epoca 340, EQM_T = 0.04126, EQM_V = 0.04797
+Epoca 350, EQM_T = 0.04114, EQM_V = 0.04832
+Epoca 360, EQM_T = 0.04103, EQM_V = 0.04868
+Epoca 370, EQM_T = 0.04092, EQM_V = 0.04902
+Epoca 380, EQM_T = 0.04081, EQM_V = 0.04936
+Epoca 390, EQM_T = 0.04070, EQM_V = 0.04968
+Epoca 400, EQM_T = 0.04060, EQM_V = 0.04999
+Epoca 410, EQM_T = 0.04049, EQM_V = 0.05029
+Epoca 420, EQM_T = 0.04038, EQM_V = 0.05058
+Epoca 430, EQM_T = 0.04027, EQM_V = 0.05085
+Epoca 440, EQM_T = 0.04016, EQM_V = 0.05111
+Epoca 450, EQM_T = 0.04006, EQM_V = 0.05136
+Epoca 460, EQM_T = 0.03995, EQM_V = 0.05160
+Epoca 470, EQM_T = 0.03984, EQM_V = 0.05184
+Epoca 480, EQM_T = 0.03974, EQM_V = 0.05206
+Epoca 490, EQM_T = 0.03963, EQM_V = 0.05228
+Epoca 500, EQM_T = 0.03953, EQM_V = 0.05249
+Predição do minibatch com passo de 52:
+Numero de padroes para treinamento = 1746
+Numero de padroes para validacao = 547
+Numero de padroes para teste = 547
+Gerando pesos iniciais da rede!
+Numero de pesos na rede neural = 271
+You will use 87 batches with 20 samples
+Epoca 0, EQM_T = 0.00013, EQM_V = 0.06925
+Epoca 10, EQM_T = 0.00022, EQM_V = 0.07002
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 20, EQM_T = 0.01170, EQM_V = 0.08828
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 30, EQM_T = 0.00844, EQM_V = 0.10680
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 40, EQM_T = 0.00032, EQM_V = 0.09188
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 50, EQM_T = 0.00716, EQM_V = 0.09047
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 60, EQM_T = 0.00381, EQM_V = 0.05763
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 70, EQM_T = 0.00032, EQM_V = 0.23758
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 80, EQM_T = 0.00538, EQM_V = 0.04146
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 90, EQM_T = 0.00547, EQM_V = 0.11716
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 100, EQM_T = 0.00537, EQM_V = 0.05950
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 110, EQM_T = 0.00546, EQM_V = 0.11181
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 120, EQM_T = 0.00543, EQM_V = 0.16620
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 130, EQM_T = 0.00551, EQM_V = 0.09401
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 140, EQM_T = 0.00545, EQM_V = 0.07726
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 150, EQM_T = 0.00540, EQM_V = 2.42550
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 160, EQM_T = 0.00545, EQM_V = 0.85262
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 170, EQM_T = 0.00589, EQM_V = 0.60230
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 180, EQM_T = 0.00540, EQM_V = 0.11239
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 190, EQM_T = 0.00544, EQM_V = 0.06121
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 200, EQM_T = 0.00543, EQM_V = 0.06126
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 210, EQM_T = 0.00689, EQM_V = 0.06283
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 220, EQM_T = 0.00690, EQM_V = 0.07193
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 230, EQM_T = 0.00715, EQM_V = 0.26869
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 240, EQM_T = 0.00819, EQM_V = 0.30628
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 250, EQM_T = 0.01025, EQM_V = 0.70049
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+Epoca 260, EQM_T = 0.00765, EQM_V = 1.72266
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+/home/hugohvf/Desktop/UEM/SistemasInteligentes/Atividade 2/Predição/principal_mlp_predicao_minibatch.py:152: RuntimeWarning: invalid value encountered in true_divide
+  dEw = dEw / np.linalg.norm(dEw)
+

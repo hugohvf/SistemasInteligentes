@@ -140,7 +140,7 @@ for b in range(blocks):
 
         decision_filter[n, 0] = np.sign(np.matrix(wn_f) * np.matrix(xn).T)
 
-cd .. ..        decision_perceptron[n, 0] = np.sign(
+        decision_perceptron[n, 0] = np.sign(
             np.matrix(wn_p) * np.matrix(xn_p).T)
 
     error_filter = error_filter + np.sum(decision_filter != sn_N)

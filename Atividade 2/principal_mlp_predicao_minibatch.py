@@ -142,6 +142,7 @@ def predict(nstep = 2, batchSize = 20):
   plt.xlabel("Época (iteração)")
   plt.ylabel("EQM")
   plt.show()
+  plt.pause(1)
 
   N = Ntrain+Nval+Ntest
   npred = np.arange(N-Npred+nstep, N+nstep)
@@ -153,6 +154,7 @@ def predict(nstep = 2, batchSize = 20):
   plt.xlabel('amostra')
   plt.ylabel('Ax normalizado')
   plt.show()
+  plt.pause(1)
 
 def cost(vw, X, S, batchSize, Nl, m, npesos):
   w1 = np.reshape(vw[0:Nl[0] * (m + 1)], (Nl[0], m + 1))
