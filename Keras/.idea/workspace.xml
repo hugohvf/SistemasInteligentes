@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="454885c6-3b8a-4588-b449-3f58679c2662" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Atividade 1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 1/.idea/Atividade 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 1/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 1/alphamax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 1/cria_Xn_equalizacao.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 1/perceptron_vs_filtro_linear.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 1/perceptron_vs_filtro_linear.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/.idea/Atividade 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/dados_Ax.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/data01.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/data02.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/data03.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/data04.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/data05.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/data06.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/data07.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/data08.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/data09.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/data10.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/data11.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/data12.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/data13.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/data14.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/data15.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/elimina_redundancias.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/gera_dados_predicao_aula_MLP.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/human activity recognition from accelerometer data.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/transf_bilinear.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/Activity Recognition from Single Chest-Mounted Accelerometer/visualiza_dados_activity_recognition.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/__MACOSX/Activity Recognition from Single Chest-Mounted Accelerometer/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Activity Recognition from Single Chest-Mounted Accelerometer/__MACOSX/Activity Recognition from Single Chest-Mounted Accelerometer/._README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Alex/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Alex/.idea/Alex.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Alex/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Alex/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Alex/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Alex/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Alex/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Alex/avaliação1_p2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Alex/dados_Ax.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Alex/lib3_6694.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Alex/myplot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Alex/preproc_predicao_Ax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Atividade2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/.idea/Predição.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/Atividade2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/Atividade2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/Atividade2_Ana_Caio_Hugo_Lucas.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/Ev batch10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/LogFinal.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCG15.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCG15/LogFInal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCG15/myplot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCG15/myplot10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCG15/myplot11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCG15/myplot12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCG15/myplot13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCG15/myplot2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCG15/myplot3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCG15/myplot4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCG15/myplot5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCG15/myplot6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCG15/myplot7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCG15/myplot8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCG15/myplot9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCGMaxIter10.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCGMaxIter10/batch100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCGMaxIter10/evbatch10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCGMaxIter10/evbatch5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCGMaxIter10/evbatch52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCGMaxIter10/evmini10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCGMaxIter10/evmini5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCGMaxIter10/evmini52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCGMaxIter10/logFinal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCGMaxIter10/predbatch10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCGMaxIter10/predbatch100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCGMaxIter10/predbatch5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCGMaxIter10/predbatch52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCGMaxIter10/predmini10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/OtimizacaoCGMaxIter10/predmini5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/Plots/EvolucaoMinibatch 300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/Plots/EvolucaoMinibatch 500.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/Plots/Predicao Batch 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/Plots/Predicao Minibatch 500.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/Plots/myplot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/Plots/myplot2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/Plots/treinamento+validacao+teste.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsEntrega.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsEntrega/Ev5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsEntrega/Ev52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsEntrega/EvBatchsize200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsEntrega/Log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsEntrega/Pred10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsEntrega/Pred5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsEntrega/Pred52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsEntrega/PredBatchsize200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsEntrega/ev10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsFinais/EvBatch5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsFinais/EvMinibatch400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsFinais/EvMinibatch5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsFinais/PredBatch10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsFinais/PredBatch5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/PlotsFinais/PredicaoStepBatch5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/dados_Ax.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/ev10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/mlp_6694.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/mlp_predicao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/myplot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/myplot3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/myplot4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/myplot5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/myplot6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/myplot7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/optimize_6694.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/plot1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/plot2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/pred 10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/Predição/preproc_predicao_Ax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/WineData.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/avaliacao1_parte2_6694_1s2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/busca_unidimensional_secao_aurea.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/calc_d.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/dados_Ax.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/functions_6694.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/metodos_para_plotar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/mlp_6694.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/optimize_6694.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/plot_curvas_nivel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/plot_curvas_nivel_vetorizado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/preproc_predicao_Ax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/preproc_winedata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/principal_bfgs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/principal_black_box_scipy.optimize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/principal_grad_newton_passo_otimizado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/principal_grad_newton_sem_busca_alpha.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/principal_mlp_predicao_batch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/principal_mlp_predicao_minibatch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/principal_mlp_winedata_batch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade 2/script1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn_mnist_classification_keras.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlp_mnist_classification_keras.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_weights.h5" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lLmZvsBsFcaZW6eHtwEivjUnja" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Prova 2/Keras" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="454885c6-3b8a-4588-b449-3f58679c2662" name="Default Changelist" comment="" />
+      <created>1607384804888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607384804888</updated>
+      <workItem from="1607384806201" duration="863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
