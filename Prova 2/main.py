@@ -1,7 +1,5 @@
 """
-
 The dataset contains 13 different features:
-
 	Per capita crime rate.
 	The proportion of residential land zoned for lots over 25,000 square feet.
 	The proportion of non-retail business acres per town.
@@ -15,7 +13,6 @@ The dataset contains 13 different features:
 	Pupil-teacher ratio by town.
 	1000 * (Bk - 0.63) ** 2 where Bk is the proportion of Black people by town.
 	Percentage lower status of the population.
-
 	@author:
 """
 
